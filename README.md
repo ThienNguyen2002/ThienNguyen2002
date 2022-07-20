@@ -21,4 +21,4 @@ Skills: Java / JavaScript / C# / C++/ HTML / CSS / R
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThienNguyen2002)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/ThienNguyen2002)
+![Profile views](https://gpvc.arturio.dev/ThienNguyen2002)
