@@ -4,10 +4,13 @@
 
 My specialty is making 100 programming errors, making 1000 mistakes, and failing 1000000 times every day.
 
+[![Spotify](https://thiennguyen2002.vercel.app/api/spotify)](https://open.spotify.com/user/21o7w3pmt4g7q5gn7ov4xwopi)
+
 Skills: Java / JavaScript / C# / C++/ HTML / CSS / R
 
-- 🔭 I’m currently working on BitProject Final project
-- 🌱 I’m currently learning React / Azure Functions / REST API's
+- 🔭 Working on CommuteTrax (As of August 28, 2022)
+- 🌱 Learning React / Azure Functions / REST API's in free time
+- 🎓 Learning Algorithms and Computer Organiaztion at University
 - 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: He/Him/His
 
