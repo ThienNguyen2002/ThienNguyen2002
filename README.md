@@ -9,7 +9,7 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 
 [<img src="https://novatorem-gdtj0jnyy-thiennguyen2002.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21o7w3pmt4g7q5gn7ov4xwopi)
 
-## What I'm doing right now
+## What I'm doing right now 🧰
 
 Skills: Java / JavaScript / C# / C++/ HTML / CSS / R
 
