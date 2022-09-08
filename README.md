@@ -13,7 +13,7 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 
 - 🔭 Working on CommuteTrax (As of August 28, 2022)
 - 🌱 Learning React / Azure Functions / REST API's in free time
-- 🎓 Learning Algorithms and Computer Organiaztion at University
+- 🎓 Learning Algorithms and Computer Organiaztion in school
 
 ## About me 😎
 
