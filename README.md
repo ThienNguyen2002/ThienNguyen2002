@@ -17,7 +17,7 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 
 ## About me 😎
 
-Skills: Java / JavaScript / C# / C++/ HTML / CSS / R
+Skills: Java / JavaScript / C# / C++/ HTML / CSS / R / LaTex
 
 - 🕹️ Interests: Gaming, AI Art, Hiking, Composing Music, Bouldering, Esports, Hackathons, Competitive Programming, Photoshop 
 - 📫 How to reach me: Email or LinkedIn
