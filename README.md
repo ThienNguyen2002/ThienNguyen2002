@@ -28,7 +28,7 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 ## Let's connect :) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ThienNguyen2002) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thien-x-nguyen//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19293067) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='stackoverflow' height='40'>](https://twitter.com/ThienXNguyen)
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://skillicons.dev/icons?i=github)' alt='github' height='40'>](https://github.com/https://github.com/ThienNguyen2002)
+[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/https://github.com/ThienNguyen2002)
 
 ## GitHub Stats
 
