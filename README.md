@@ -15,10 +15,11 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 - 🌱 Learning React / Azure Functions / REST API's in free time
 - 🎓 Learning Algorithms and Computer Organiaztion in school
 
-## About me 😎
-
-# Skills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,cs,cpp,html,css,r,latex)](https://skillicons.dev)
+
+
+## About me 😎
 
 - 🕹️ Interests: Gaming, AI Art, Hiking, Composing Music, Bouldering, Esports, Hackathons, Competitive Programming, Photoshop 
 - 📫 How to reach me: Email or LinkedIn
