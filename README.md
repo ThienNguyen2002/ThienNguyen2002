@@ -16,7 +16,7 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 - 🎓 Learning Algorithms and Computer Organiaztion in school
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,cs,cpp,html,css,r,latex)]
+[![My Skills](https://skillicons.dev/icons?i=java,js,cs,cpp,html,css,r,latex)](https://skillicons.dev)
 
 
 ## About me 😎
