@@ -26,7 +26,7 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 - 😄 Pronouns: He/Him/His
 
 ## Let's connect :) 
-[<img src='https://skillicons.dev/icons?i=github' alt='github'>](https://github.com/ThienNguyen2002)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin'>](https://www.linkedin.com/in/thien-x-nguyen)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://skillicons.dev/icons?i=stackoverflow' alt='stackoverflow'>](https://stackoverflow.com/users/19293067) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter'>](https://twitter.com/ThienXNguyen)
+[<img src='https://skillicons.dev/icons?i=github' alt='github'>](https://github.com/ThienNguyen2002)&nbsp;&n[<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin'>](https://www.linkedin.com/in/thien-x-nguyen)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://skillicons.dev/icons?i=stackoverflow' alt='stackoverflow'>](https://stackoverflow.com/users/19293067) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://skillicons.dev/icons?i=twitter' alt='twitter'>](https://twitter.com/ThienXNguyen)
 
 ## GitHub Stats
 
