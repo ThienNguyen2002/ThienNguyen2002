@@ -32,10 +32,6 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThienNguyen2002&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThienNguyen2002)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThienNguyen2002&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienNguyen2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThienNguyen2002)
