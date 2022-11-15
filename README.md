@@ -11,8 +11,8 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 
 ## What I'm doing right now 🧰
 
-- 🔭 Working on CommuteTrax (As of August 28, 2022)
-- 🌱 Learning React / Azure Functions / REST API's in free time
+- 🔭 Working on a Hackathon Project for [Micosoft's Health Innovation Challenge](https://health-innovationchallenge.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open)
+- 🌱 Learning React / Azure Functions / REST API's / ASP.NET Core
 - 🎓 Learning Algorithms and Computer Organiaztion in school
 
 ## Skills
