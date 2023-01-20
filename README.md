@@ -12,16 +12,16 @@ My specialty is making 100 programming errors, making 1000 mistakes, and failing
 ## What I'm doing right now 🧰
 
 - 🔭 Working on my Portfolio Website!
-- 🌱 Learning React / Azure Functions / REST API's / ASP.NET Core / AI
-- 🎓 Learning Algorithms and Computer Organiaztion in school
+- 🌱 Learning React / Typescript / E2E testing 
+- 🎓 Learning Algorithms, Models of Computation, and Database Systems in School! 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,cs,cpp,html,css,r,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,cs,ts,cpp,html,css,r,latex)](https://skillicons.dev)
 
 
 ## About me 😎
 
-- 🕹️ Interests: Gaming, AI Art, Hiking, Composing Music, Bouldering, Esports, Hackathons, Competitive Programming, Photoshop 
+- 🕹️ Interests: Gaming, Web Development, AI Art, Hiking, Composing Music, Bouldering, Esports, Hackathons, Competitive Programming, Photoshop 
 - 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: He/Him/His
 
