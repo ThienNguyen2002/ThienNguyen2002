@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Thien
 
-#### Computer Science Major | School of Computing | University of Utah [<img align="center" width="25" height="25" src="https://i.imgur.com/B9rxyHW.png">](https://www.cs.utah.edu/)
+#### Software Development Major | Kahlert School of Computing | University of Utah [<img align="center" width="25" height="25" src="https://i.imgur.com/B9rxyHW.png">](https://www.cs.utah.edu/)
 
-My specialty is making 100 programming errors, making 1000 mistakes, and failing 1000000 times every day.
 
 ## Spotify Playing 🎧
 
